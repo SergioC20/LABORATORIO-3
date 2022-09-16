@@ -1,0 +1,5 @@
+﻿  Laboratorio3_SergioCardona_1222419.cpp
+C:\Users\chejo\source\repos\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419.cpp(38,11): error C3861: 'ejerciciomultiplicacion': no se encontró el identificador
+C:\Users\chejo\source\repos\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419.cpp(41,12): error C3861: 'palabraspalindromas': no se encontró el identificador
+C:\Users\chejo\source\repos\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419.cpp(44,13): error C3861: 'ejercicionumerobase': no se encontró el identificador
+C:\Users\chejo\source\repos\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419\Laboratorio3_SergioCardona_1222419.cpp(95,19): warning C4018: '<': no coinciden signed/unsigned
